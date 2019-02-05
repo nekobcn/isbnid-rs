@@ -1,3 +1,2 @@
 # isbnid-rs
-
-ISBN ids for rust
+Rust ISBN identifier library

@@ -1,0 +1,12 @@
+[package]
+name = "isbnid"
+version = "0.1.4"
+authors = ["GitHub PDFnorm <pdfnorm@gmx.com>"]
+description = "Rust ISBN identifier library"
+repository = "https://gitlab.com/nekobcn/isbnid-rs"
+readme = "README.md"
+license = "LGPL-3.0"
+include = ["src/*.rs", "Cargo.toml"]
+
+[dependencies]
+regex = "0.2.*"
